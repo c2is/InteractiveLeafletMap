@@ -1,0 +1,6 @@
+# phpsorm
+/.idea
+
+# nodeJS npm
+/node_modules/
+/npm-*.log
